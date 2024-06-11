@@ -20,9 +20,9 @@ Jaya Jaya Maju is a multinational company that has been established since the ye
 2. **Install Libraries:**
    - Install the necessary libraries by running the following commands:
      ```python
-     !pip install pandas==2.0.3 numpy==1.25.2 scikit-learn==1.2.2
+     pip install -r requirements.txt
      ```
-   - Additional required libraries can be found in the [requirements file](https://github.com/dimsdika12/Employee-Attrition/blob/main/requirements.txt).
+   - Required libraries can be found in the [requirements file](https://github.com/dimsdika12/Employee-Attrition/blob/main/requirements.txt).
 ### Bussines Dashboad
 you can acces dashboard in this [Link](https://lookerstudio.google.com/reporting/021bb642-e1cf-4adc-9d8f-01d6d625f153)
 

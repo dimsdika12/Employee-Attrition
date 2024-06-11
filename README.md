@@ -12,7 +12,7 @@ Jaya Jaya Maju is a multinational company that has been established since the ye
 ### Preparation
   Data source: [Employee Data on GitHub](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
   
-  Setup environment: [link](https://lookerstudio.google.com/reporting/021bb642-e1cf-4adc-9d8f-01d6d625f153)
+  Setup environment: [link](https://github.com/dimsdika12/Employee-Attrition/blob/main/requirements.txt)
 ### Bussines Dashboad
 you can acces dashboard in this [Link](https://lookerstudio.google.com/reporting/021bb642-e1cf-4adc-9d8f-01d6d625f153)
 
